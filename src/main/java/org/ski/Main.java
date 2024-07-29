@@ -12,6 +12,6 @@ public class Main {
         binarySearchTree.insert(4);
         binarySearchTree.insert(9);
 
-        binarySearchTree.inorder();
+        binarySearchTree.preorder();
     }
 }
